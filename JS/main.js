@@ -32,8 +32,7 @@ setInterval(() => {
     mn.style.transform = `rotateZ(${mm}deg)`;
     sc.style.transform = `rotateZ(${ss}deg)`;
     
-    // gives the smooth transitioning effect, but there's a bug here!
-    // sc.style.transition = `1s`;
+   
     
 
 })
